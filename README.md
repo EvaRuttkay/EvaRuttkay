@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   
-# ✨ Data Analyst: Focused on Real-World Data Solutions.
+# ✨ Data Analyst: Focused on Real-World Data Solutions
 
 </div>
 
