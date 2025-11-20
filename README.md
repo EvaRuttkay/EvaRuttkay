@@ -10,7 +10,7 @@
 ## 🛠️ Core Skills
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 * Experienced in data manipulation and analysis using Pandas and NumPy.  
-* Proficient in data visualization using Matplotlib and Seaborn. 
+* Skilled in data visualization using Matplotlib and Seaborn. 
 
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) 
 * Experienced in designing interactive visualizations and dashboards.  
@@ -21,7 +21,7 @@
 * Skilled in creating stored procedures, views, and joins.  
 
 ![Excel](https://img.shields.io/badge/Excel-%23339933.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-* Proficient in Pivot Tables, advanced formulas, and data cleaning.  
+* Skilled in Pivot Tables, advanced formulas, and data cleaning.  
 * Experienced with creating dashboards and reports using charts and conditional formatting.
   
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
