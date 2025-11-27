@@ -42,4 +42,5 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EvaRuttkay)
 
-
+## ✨ Let's Build Something Great!
+I'm always open to collaborating. Just open an issue or drop me a message, and let's create impacful data solutions together.
