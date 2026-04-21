@@ -2,7 +2,7 @@
 🔥 Animated Typing Banner
 ============================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=%E2%9C%A8+Data+Analyst%3A+Focused+on+Real-World+Data+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=%E2%9C%A8+Data+Analyst%3A+Focused+on+Real+World+Data+Solutions" />
 </p>
 
 ---
