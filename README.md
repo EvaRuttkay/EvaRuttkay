@@ -20,7 +20,7 @@
 * Experienced in data manipulation and analysis using Pandas and NumPy.  
 * Skilled in data visualization using Matplotlib and Seaborn.
  
-* <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="23"/>  **PowerBI**
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="20"/>  **PowerBI**
 * Skilled in data modeling, cleaning, and dashboard design
 * Experience with DAX and automated reporting
   
