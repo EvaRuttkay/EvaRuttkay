@@ -34,7 +34,7 @@
 
 ### 🏆 Projects
 
-* [**Housing UK MySQL PowerBI Analysis Project**]()
+* [**Housing UK MySQL PowerBI Analysis Project**](https://github.com/EvaRuttkay/HOUSING_UK-MySQL-PowerBI-Analysis-Project)
 * [**NorthwindDB MySQL Analysis**](https://github.com/EvaRuttkay/NorthwindDB-MySQL-Analysis)
 * [**Titanic Survival Analysis Project**](https://github.com/EvaRuttkay/Titanic-Survival-Analysis-Project)
 * [**Global Health Analysis Tableau Project**](https://github.com/EvaRuttkay/Global-Health-Analysis-Tableau-Project)
