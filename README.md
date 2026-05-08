@@ -22,7 +22,7 @@
  
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="20"/>  **PowerBI**
 * Skilled in data modeling, cleaning, and dashboard design
-* Experience with DAX and automated reporting
+* Experienced with DAX and automated reporting
   
  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="23"/>  **TABLEAU**
 * Experienced in designing interactive visualizations and dashboards.  
